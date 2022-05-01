@@ -1,0 +1,16 @@
+--2022-04-30 20:09:05--  https://unsplash.com/photos/Mv9hjnEUHR4/download?force=true
+Resolving unsplash.com (unsplash.com)... 151.101.129.181, 151.101.193.181, 151.101.1.181, ...
+Connecting to unsplash.com (unsplash.com)|151.101.129.181|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg [following]
+--2022-04-30 20:09:05--  https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg
+Resolving images.unsplash.com (images.unsplash.com)... 151.101.14.208, 2a04:4e42:3::720
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.14.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1021417 (997K) [image/jpeg]
+Saving to: ‘download?force=true’
+
+download?force=true           0%[                                          ]       0  --.-KB/s               download?force=true          24%[=========>                                ] 247.28K  1.16MB/s               download?force=true          53%[=====================>                    ] 535.21K  1.28MB/s               download?force=true          90%[=====================================>    ] 903.21K  1.43MB/s               download?force=true         100%[=========================================>] 997.48K  1.47MB/s    in 0.7s    
+
+2022-04-30 20:09:06 (1.47 MB/s) - ‘download?force=true’ saved [1021417/1021417]
+
